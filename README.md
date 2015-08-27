@@ -1,4 +1,6 @@
 # microscope
-learn meteor
+Learn meteor!
+
 Notification done.
-To do next
+
+To do next.
